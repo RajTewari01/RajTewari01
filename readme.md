@@ -6,8 +6,8 @@
 
 ## 🌟 About Me
 - 🔭 Currently working on **Python + DSA**
-- 🌱 Learning **Ethical Hacking + AI + Web Dev**
-- 🎯 Goal: Build a strong foundation & crack top companies
+- 🌱 Learning **Ethical Hacking + AI + Web Development**
+- 🎯 Goal: Build a strong foundation & get into top companies
 - ⚡ Fun fact: I code more at night 🌙
 
 ---
@@ -22,17 +22,17 @@
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,html,css,js,react,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,css,git,github" />
 </p>
 
 ---
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:tewari765@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
