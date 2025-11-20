@@ -1,71 +1,45 @@
 <div align="center">
+ 
+  <!-- 1. ANIMATED HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&section=header&text=Biswadeep%20Tewari&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20with%20Python%20%26%20AI&descAlign=50&descAlignY=60&descSize=20" alt="Header" width="100%"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Biswadeep&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20@%20MAKAUT%20|%20Python%20Dev%20|%20Tech%20Enthusiast&descAlign=50&descAlignY=60" alt="Header" width="100%"/>
-
+  <!-- 2. TYPING EFFECT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Exploring+Python+%26+DSA;Learning+Ethical+Hacking+%26+AI;Building+Web+Solutions&font=Fira%20Code&center=true&width=500&height=50&color=3366ff&vCenter=true&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=class+Developer(Human):;++++def+__init__(self):;++++++++self.skills+=+%5B'Python',+'Hacking'%5D;++++++++self.passion+=+'Creating';System+Ready...&font=Fira+Code&center=true&width=500&height=60&color=00f2ff&vCenter=true&pause=1000&size=18" alt="Typing SVG" />
   </a>
 
+  <!-- 3. GLOWING SOCIAL BADGES -->
   <p>
     <a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:tewari765@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://biswadeep.pythonanywhere.com/#" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=firefox&logoColor=white" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=python&logoColor=white" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🧐 About Me
+<!-- 4. THE DASHBOARD LAYOUT -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- LEFT COLUMN: BIO & SKILLS -->
+    <td width="50%" valign="top">
+      
+### 👨‍💻 <span style="color:#00f2ff">source_code.py</span>
+```python
+class Biswadeep:
+    def __init__(self):
+        self.role = "CSE Student @ MAKAUT"
+        self.specs = ["Python", "DSA", "AI"]
+        self.hobbies = ["Ethical Hacking", "Night Coding 🌙"]
 
-I am a Computer Science student passionate about solving complex problems and exploring the depths of technology. I bridge the gap between development and security.
+    def get_mission(self):
+        return "To engineer secure & scalable solutions."
 
-- 🔭 I’m currently working on **Python Projects & DSA Mastery**
-- 🌱 I’m learning **Ethical Hacking (Pen-testing) & Full Stack Web Dev**
-- 👯 I’m looking to collaborate on **Open Source Python Projects**
-- ⚡ **Fun fact:** I code more efficiently when the world sleeps 🌙
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-| **Languages** | **Frameworks & Mobile** | **Tools & Hosting** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" width="150" /> | <img src="https://skillicons.dev/icons?i=flutter,dart,django,react" width="150" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,replit" width="150" /> |
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajTewari01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajTewari01&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajTewari01&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-### 🐍 Snake Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-</div>
+me = Biswadeep()
+# Status: Hacking the Matrix...
