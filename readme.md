@@ -58,27 +58,14 @@
 
 ---
 
-### 🛠️ The Arsenal (Tech Stack)
+### 🛠️ The Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120"><b>Core</b></td>
-      <td align="center" width="120"><b>Web & App</b></td>
-      <td align="center" width="120"><b>Security & Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=django,react,flutter,html,css" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode" />
-      </td>
-    </tr>
-  </table>
+  
+  <img src="https://skillicons.dev/icons?i=python,flask,django,c,react,js,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux,kali,mysql,sqlite" />
+  
 </div>
 
 <br/>
