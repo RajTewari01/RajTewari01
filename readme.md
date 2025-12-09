@@ -1,8 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hello,%20Universe!&fontSize=70&fontAlign=50&fontAlignY=35&desc=I'm%20Biswadeep%20Tewari&descAlign=50&descAlignY=51&descSize=35&animation=twinkling&fontColor=fff" alt="Header" width="100%"/>
   
+
+
   <br/>
-  
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=CSE+Student+%40+MAKAUT;Python+Developer+%26+Scripting+Wizard;Exploring+the+Dark+Arts+of+Ethical+Hacking;Building+AI-Powered+Web+Solutions&font=Fira+Code&center=true&width=600&height=50&color=b392f0&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
   
   <p>
     <a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/" target="_blank">
