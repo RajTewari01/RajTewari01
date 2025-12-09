@@ -251,7 +251,7 @@ me.say_hi()
 <div align="center">
 
   <a href="https://github.com/RajTewari01/QR_CODE_GENERATOR_WITH_EXE">
-    <img width="49%" src="https://raw.githubusercontent.com/RajTewari01/QR_CODE_GENERATOR_WITH_EXE/main/FB_IMG_1689014479453.jpg" alt="QR Code Generator Project"/>
+    <img width="49%" src=https://github.com/RajTewari01/QR_CODE_GENERATOR_WITH_EXE/blob/main/Gemini_Generated_Image_zawnipzawnipzawn.png alt="QR Code Generator Project"/>
   </a>
 
 </div>
