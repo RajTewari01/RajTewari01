@@ -16,14 +16,11 @@
     <a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
     </a>
-    <a href="mailto:tewari765@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-tewari765-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+        <a href="mailto:tewari765@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://biswadeep.pythonanywhere.com/#" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139" />
-    </a>
-    <a href="https://instagram.com/light_up_my_world01" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+      <img src="https://img.shields.io/badge/Portfolio-Live_Demo-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
     </a>
   </p>
   
