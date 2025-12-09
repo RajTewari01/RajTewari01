@@ -248,10 +248,11 @@ me.say_hi()
 
 <div align="center">
 
-<!-- SUPER 3D STYLED QR CODE PROJECT CARD -->
-<a href="https://github.com/RajTewari01/QR_CODE_GENERATOR_WITH_EXE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RajTewari01&repo=QR_CODE_GENERATOR_WITH_EXE&theme=tokyonight&hide_border=false&border_radius=20&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=70a5fd" alt="QR Code Generator"/>
-</a>
+<div align="center">
+
+  <a href="https://github.com/RajTewari01/QR_CODE_GENERATOR_WITH_EXE">
+    <img width="49%" src="https://raw.githubusercontent.com/RajTewari01/QR_CODE_GENERATOR_WITH_EXE/main/FB_IMG_1689014479453.jpg" alt="QR Code Generator Project"/>
+  </a>
 
 </div>
 
