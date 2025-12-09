@@ -88,15 +88,13 @@ me.say_hi()
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-  <!-- GitHub Stats Card - Using direct URL -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajTewari01/&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
-  
-  <br/>
-  
-  <!-- GitHub Streak - Using demolab.com (official working domain) -->
-  <img src="https://streak-stats.demolab.com?user=RajTewari01/&theme=radical&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak"/>
-  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajTewari01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RajTewari01&theme=radical&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff)
+
 </div>
 
 </td>
