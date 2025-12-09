@@ -3,11 +3,6 @@
   
   <br/>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🎓+CSE+Student+%40+MAKAUT;🐍+Python+Developer+%26+Scripting+Wizard;🔐+Exploring+Ethical+Hacking+%26+CyberSec;🤖+Building+AI-Powered+Solutions;💻+Open+Source+Contributor;🌌+Space+Tech+Enthusiast&font=Fira+Code&center=true&width=800&height=60&color=00F7FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-  </a>
-  
-  <br/><br/>
   
   <p>
     <a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/" target="_blank">
@@ -94,11 +89,13 @@ me.say_hi()
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=RajTewari01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="GitHub Stats" />
+  <!-- GitHub Stats Card - Using direct URL -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajTewari01/&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajTewari01&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
+  <!-- GitHub Streak - Using demolab.com (official working domain) -->
+  <img src="https://streak-stats.demolab.com?user=RajTewari01/&theme=radical&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff" alt="GitHub Streak"/>
   
 </div>
 
@@ -111,7 +108,10 @@ me.say_hi()
 ## 🌐 Language Distribution
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajTewari01&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=8" alt="Top Languages Donut" />
+  
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajTewari01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 <br/>
@@ -126,15 +126,38 @@ me.say_hi()
 
 ### 💻 Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,flask,django" alt="Languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker,linux,kali,mysql,sqlite" alt="Tools" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🎨 Design & Productivity
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,notion,obsidian" alt="Design Tools" />
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 
 </div>
 
@@ -193,7 +216,9 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajTewari01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+![](https://github-profile-trophy.vercel.app/?username=RajTewari01&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
+
 </div>
 
 <br/>
@@ -206,12 +231,7 @@ me.say_hi()
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajTewari01&bg_color=0d1117&color=00F7FF&line=FF00FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Journey" width="100%" alt="Contribution Graph"/>
-  
-  <br/><br/>
-  
-  <!-- Alternative Contribution Visualizations -->
-  <img src="https://ssr-contributions-svg.vercel.app/_/RajTewari01?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=10_0&format=svg&weeks=40&theme=purple" alt="3D Contribution Bar" width="100%" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=RajTewari01&bg_color=0d1117&color=00F7FF&line=FF00FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Journey)
   
 </div>
 
@@ -225,8 +245,9 @@ me.say_hi()
 
 <div align="center">
 
+<!-- SUPER 3D STYLED QR CODE PROJECT CARD -->
 <a href="https://github.com/RajTewari01/QR_CODE_GENERATOR_WITH_EXE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RajTewari01&repo=QR_CODE_GENERATOR_WITH_EXE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="Galaxy QR Core" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=RajTewari01&repo=QR_CODE_GENERATOR_WITH_EXE&theme=tokyonight&hide_border=false&border_radius=20&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&border_color=70a5fd" alt="QR Code Generator"/>
 </a>
 
 </div>
@@ -236,12 +257,12 @@ me.say_hi()
 <details>
 <summary><b>📂 More Projects Coming Soon...</b></summary>
 <br/>
-<ul>
-  <li>🔐 <b>CyberSec Toolkit</b> - Ethical hacking utilities</li>
-  <li>🤖 <b>AI Assistant</b> - Python-powered AI helper</li>
-  <li>🌐 <b>Portfolio 2.0</b> - Next-gen portfolio site</li>
-  <li>📊 <b>Data Visualizer</b> - Interactive data dashboard</li>
-</ul>
+
+- 🔐 **CyberSec Toolkit** - Ethical hacking utilities
+- 🤖 **AI Assistant** - Python-powered AI helper
+- 🌐 **Portfolio 2.0** - Next-gen portfolio site
+- 📊 **Data Visualizer** - Interactive data dashboard
+
 </details>
 
 <br/>
@@ -253,7 +274,9 @@ me.say_hi()
 ## 💭 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 <br/>
@@ -262,38 +285,12 @@ me.say_hi()
 
 <br/>
 
-## 🎵 Currently Vibing To
+## 💡 Random Dev Joke
 
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6rlup4lsrukvrfnfvxbdjqp5i&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f7ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31k6rlup4lsrukvrfnfvxbdjqp5i&redirect=true)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284161-3e4947cf-87cc-4d41-a331-6e3f1bdeb6e2.gif" width="100%">
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/RajTewari01/RajTewari01/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 💡 Random Dev Meme
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
 
 <br/>
@@ -302,18 +299,11 @@ me.say_hi()
 
 <br/>
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br/>
-
 ## 📫 Let's Connect!
 
 <div align="center">
   
-```
+```ascii
 ┌──────────────────────────────────────────────────────────────┐
 │                                                                │
 │  💼 LinkedIn  → linkedin.com/in/raj-tewari-9a93212a3          │
