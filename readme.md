@@ -215,7 +215,7 @@ class BiswadeepTewari:
 <br/>
 
 <a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;&nbsp;
-<a href="https://biswadeep.pythonanywhere.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>&nbsp;&nbsp;
+<a href="https://rajs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>&nbsp;&nbsp;
 <a href="mailto:tewari765@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/biswadeep" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="35"/></a>
 
