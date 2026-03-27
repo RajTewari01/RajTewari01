@@ -19,11 +19,11 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/"><img src="https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>&nbsp;
-<a href="mailto:tewari765@gmail.com"><img src="https://img.shields.io/badge/%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>&nbsp;
-<a href="https://rajs.vercel.app"><img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a>&nbsp;
-<a href="https://instagram.com/light_up_my_world01"><img src="https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>&nbsp;
-<a href="https://github.com/RajTewari01"><img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
+<a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>&nbsp;
+<a href="mailto:tewari765@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://rajs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://instagram.com/light_up_my_world01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/></a>&nbsp;
+<a href="https://github.com/RajTewari01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
 
 <br/><br/>
 
@@ -245,16 +245,7 @@ Self-hosted link aggregation page. Faster, cleaner, and completely self-controll
 
 </td>
 <td width="50%" valign="top">
-
-<h4>💬 <a href="https://github.com/RajTewari01/WHATSAPP-AUTOMATION-THROUGH-PYTHON">WhatsApp Automation</a></h4>
-
-Python-powered WhatsApp automation using **Selenium**. Supports scheduled bulk messaging, template injection, and custom workflow definitions.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" height="20"/>
-
+<!-- Empty cell to balance the grid -->
 </td>
 </tr>
 </table>
