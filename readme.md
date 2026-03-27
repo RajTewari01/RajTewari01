@@ -74,6 +74,11 @@ class BiswadeepTewari:
                      "Vector DBs"],
     }
 
+    open_source = {
+        "Gatsby" : "Legacy Infrastructure Authored (PR #39522)"
+    }
+
+
     def __repr__(self):
         return "built it before they taught it"
 ```
