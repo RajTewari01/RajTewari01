@@ -11,11 +11,11 @@
 
 <!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  HERO BLOCK  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=42&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Biswadeep+Tewari" alt="Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&duration=2000&pause=1500&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=70&lines=BISWADEEP+TEWARI" alt="Name" />
 
 <br/>
 
-<code>Systems Engineer  ·  AI/ML Architect  ·  Full-Stack Developer</code>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=3500&pause=800&color=8B949E&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=50&lines=full-stack+engineer+%E2%80%A2+ai%2Fml+architect+%E2%80%A2+mobile+developer" alt="Tagline" />
 
 <br/><br/>
 
@@ -314,6 +314,10 @@ Python-powered WhatsApp automation using **Selenium**. Supports scheduled bulk m
 <a href="https://rajs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/></a>&ensp;
 <a href="mailto:tewari765@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&ensp;
 <a href="https://www.buymeacoffee.com/biswadeep"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32"/></a>
+
+<br/><br/>
+
+<sub>⚡ built with purpose — not placeholders.</sub>
 
 <br/><br/>
 
