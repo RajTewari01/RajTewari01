@@ -75,7 +75,7 @@ class BiswadeepTewari:
     }
 
     def __repr__(self):
-        return "build → ship → iterate"
+        return "built it before they taught it"
 ```
 
 </td>
