@@ -182,10 +182,10 @@ Multi-agent AI orchestration platform designed for **4GB VRAM** consumer GPUs. 1
 
 <br/>
 
+<a href="https://doi.org/10.5281/zenodo.19187986"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.19187986-1e5b96?style=flat-square&logo=doi" height="20"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="20"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="20"/>
-<img src="https://img.shields.io/badge/GGUF-0467DF?style=flat-square&logo=meta&logoColor=white" height="20"/>
 
 </td>
 <td width="50%" valign="top">
