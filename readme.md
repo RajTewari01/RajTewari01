@@ -250,7 +250,15 @@ Self-hosted link aggregation page. Faster, cleaner, and completely self-controll
 
 </td>
 <td width="50%" valign="top">
-<!-- Empty cell to balance the grid -->
+<h4>🎨 <a href="https://github.com/RajTewari01/image-generation">Image Gen Lite</a></h4>
+
+Production-inspired **Stable Diffusion** inference engine optimized for **4GB VRAM** GPUs. Features a decoupled Registry Pattern, subprocess memory isolation, and dynamic lazy-loading.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Diffusers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="20"/>
 </td>
 </tr>
 </table>
