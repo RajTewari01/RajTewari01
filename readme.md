@@ -292,10 +292,6 @@ Production-inspired **Stable Diffusion** inference engine optimized for **4GB VR
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RajTewari01&bg_color=0d1117&color=9198a1&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline&area_color=58a6ff15&title_color=ffffff"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RajTewari01&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&row=1"/>
-
 <br/><br/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajTewari01&theme=github_dark"/>
