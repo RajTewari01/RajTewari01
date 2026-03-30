@@ -88,7 +88,7 @@ class BiswadeepTewari:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajTewari01&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9198a1&langs_count=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RajTewari01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9198a1&langs_count=6" width="100%"/>
 
 </td>
 </tr>
