@@ -315,8 +315,7 @@ Production-inspired **Stable Diffusion** inference engine optimized for **4GB VR
 <a href="https://rajs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/></a>&ensp;
 <a href="https://biswadeep.pythonanywhere.com"><img src="https://img.shields.io/badge/First Portfolio-000?style=for-the-badge&logo=vercel&logoColor=red" height="32"/></a>&ensp;
 =======
-<a href="https://rajs.vercel.app"><img src="https://img.shields.io/badge/Current Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/></a>&ensp;
->>>>>>> 3afe224 (Docs : Fixed a typo.)
+<a href="https://rajs.vercel.app"><img src="https://img.shields.io/badge/Current Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/></a>
 <a href="mailto:tewari765@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&ensp;
 <a href="https://www.buymeacoffee.com/biswadeep"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32"/></a>
 
