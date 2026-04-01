@@ -312,7 +312,7 @@ Production-inspired **Stable Diffusion** inference engine optimized for **4GB VR
 
 <a href="https://www.linkedin.com/in/raj-tewari-9a93212a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&ensp;
 <a href="https://rajs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/></a>&ensp;
-<a href="https://biswadeep.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=red" height="32"/></a>&ensp;
+<a href="https://biswadeep.pythonanywhere.com"><img src="https://img.shields.io/badge/First Portfolio-000?style=for-the-badge&logo=vercel&logoColor=red" height="32"/></a>&ensp;
 <a href="mailto:tewari765@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&ensp;
 <a href="https://www.buymeacoffee.com/biswadeep"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32"/></a>
 
