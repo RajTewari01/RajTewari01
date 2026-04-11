@@ -88,7 +88,6 @@ class BiswadeepTewari:
 
 <br/>
 
-<img src="https://animated-profile-stats.vercel.app/api/card?username=RajTewari01&type=fire" width="100%"/>
 
 </td>
 </tr>
