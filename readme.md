@@ -85,12 +85,6 @@ class BiswadeepTewari:
 
 </td>
 <td width="45%" valign="top">
-
-<br/>
-
-
-</td>
-</tr>
 </table>
 
 <br/>
