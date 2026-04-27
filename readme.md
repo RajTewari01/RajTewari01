@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e24,75:161b22,100:0d1117&height=180&section=header&text=&fontSize=1" width="100%"/>
 
-<!-- ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀  HERO BLOCK  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  HERO BLOCK  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&duration=2000&pause=1500&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=70&lines=BISWADEEP+TEWARI" alt="Name" />
 
